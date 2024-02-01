@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Section3Editor Editor Win64 Development (Section3)",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "D:\\UnrealProj\\UE5Course\\Section3\\.vscode\\compileCommands_Section3.json"
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "D:\\UnrealProj\\UE5Course\\Section3\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}

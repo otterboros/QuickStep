@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\UnrealProj\\UE5Course\\Section3\\Source\\Section3\\MovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UnrealProj\\UE5Course\\Section3\\.vscode\\compileCommands_Section3\\Section3.249.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProj\\UE5Course\\Section3\\Source\\Section3\\MovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UnrealProj\\UE5Course\\Section3\\.vscode\\compileCommands_Section3\\Section3.249.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProj\\UE5Course\\Section3\\Source\\Section3\\Section3.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UnrealProj\\UE5Course\\Section3\\.vscode\\compileCommands_Section3\\Section3.249.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProj\\UE5Course\\Section3\\Source\\Section3\\Section3.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UnrealProj\\UE5Course\\Section3\\.vscode\\compileCommands_Section3\\Section3.249.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealProj\\UE5Course\\Section3\\Source\\Section3\\Section3.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\UnrealProj\\UE5Course\\Section3\\.vscode\\compileCommands_Section3\\Section3.249.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	}
+]
